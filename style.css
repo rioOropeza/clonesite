@@ -1,0 +1,22 @@
+.container{
+  background-color: rgb(8, 173, 238);
+}
+
+.topmargin{
+  margin-top: 2em;
+}
+.text{
+  color: white;
+}
+.bottommargin{
+  margin-bottom: 2em;
+}
+.oval {
+      width: 75px;
+      height: 50px;
+      background: rgb(13, 9, 233);
+      border-radius: 50px / 50px;
+      color: white;
+    }
+
+    
